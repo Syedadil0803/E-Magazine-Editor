@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index.3bbf8056.js",
+    "file": "assets/index.cff2bf71.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -49,7 +49,7 @@
     "isDynamicEntry": true
   },
   "node_modules/easy-email-extensions/lib/index3.js": {
-    "file": "assets/index3.1ac101be.js",
+    "file": "assets/index3.9a185c26.js",
     "src": "node_modules/easy-email-extensions/lib/index3.js",
     "isDynamicEntry": true,
     "imports": [
