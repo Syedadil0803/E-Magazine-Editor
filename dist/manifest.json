@@ -1,0 +1,116 @@
+{
+  "index.html": {
+    "file": "assets/index.3bbf8056.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_lodash.8180bf77.js",
+      "_mjml-browser.43006310.js"
+    ],
+    "dynamicImports": [
+      "_mjml-browser.43006310.js",
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "src/templates/Arturia - Newsletter.json",
+      "src/templates/DynamicData.json",
+      "src/templates/Food.json",
+      "src/templates/MJML Code - Newsletter.json",
+      "src/templates/Racoon - Ecommerce.json",
+      "src/templates/Real Estate.json",
+      "src/templates/Shop - Newsletter.json",
+      "src/templates/Sphero - Newsletter.json",
+      "src/templates/Star Wars.json",
+      "src/templates/Stay Updated On Our Shopping.json",
+      "src/templates/We Serve Healthy & Delicious Foods.json",
+      "node_modules/easy-email-extensions/lib/index3.js",
+      "node_modules/browser-image-compression/dist/browser-image-compression.mjs"
+    ],
+    "css": [
+      "assets/index.e3c24a50.css"
+    ]
+  },
+  "_lodash.8180bf77.js": {
+    "file": "assets/lodash.8180bf77.js"
+  },
+  "_mjml-browser.43006310.js": {
+    "file": "assets/mjml-browser.43006310.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_lodash.8180bf77.js"
+    ]
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "assets/html2canvas.688138b8.js",
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/browser-image-compression/dist/browser-image-compression.mjs": {
+    "file": "assets/browser-image-compression.e8b4808f.js",
+    "src": "node_modules/browser-image-compression/dist/browser-image-compression.mjs",
+    "isDynamicEntry": true
+  },
+  "node_modules/easy-email-extensions/lib/index3.js": {
+    "file": "assets/index3.1ac101be.js",
+    "src": "node_modules/easy-email-extensions/lib/index3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_mjml-browser.43006310.js",
+      "_lodash.8180bf77.js"
+    ]
+  },
+  "src/templates/Arturia - Newsletter.json": {
+    "file": "assets/Arturia - Newsletter.46713491.js",
+    "src": "src/templates/Arturia - Newsletter.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/DynamicData.json": {
+    "file": "assets/DynamicData.1afa1d20.js",
+    "src": "src/templates/DynamicData.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Food.json": {
+    "file": "assets/Food.df4d6de5.js",
+    "src": "src/templates/Food.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/MJML Code - Newsletter.json": {
+    "file": "assets/MJML Code - Newsletter.0ccc2e59.js",
+    "src": "src/templates/MJML Code - Newsletter.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Racoon - Ecommerce.json": {
+    "file": "assets/Racoon - Ecommerce.0c4e1670.js",
+    "src": "src/templates/Racoon - Ecommerce.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Real Estate.json": {
+    "file": "assets/Real Estate.c60d9de7.js",
+    "src": "src/templates/Real Estate.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Shop - Newsletter.json": {
+    "file": "assets/Shop - Newsletter.dabe52c7.js",
+    "src": "src/templates/Shop - Newsletter.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Sphero - Newsletter.json": {
+    "file": "assets/Sphero - Newsletter.b3fe5c8d.js",
+    "src": "src/templates/Sphero - Newsletter.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Star Wars.json": {
+    "file": "assets/Star Wars.52627929.js",
+    "src": "src/templates/Star Wars.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/Stay Updated On Our Shopping.json": {
+    "file": "assets/Stay Updated On Our Shopping.27bac42d.js",
+    "src": "src/templates/Stay Updated On Our Shopping.json",
+    "isDynamicEntry": true
+  },
+  "src/templates/We Serve Healthy & Delicious Foods.json": {
+    "file": "assets/We Serve Healthy _ Delicious Foods.689f6340.js",
+    "src": "src/templates/We Serve Healthy & Delicious Foods.json",
+    "isDynamicEntry": true
+  }
+}
